@@ -1,8 +1,5 @@
 DECLARE PARAMETER targetAltitude.
 
-run once autostageLiquid.
-
-CLEARSCREEN.
 PRINT "== ROUNDING ORBIT TO " + targetAltitude + "M ==".
 LOCK steering TO HEADING(90, 0).
 

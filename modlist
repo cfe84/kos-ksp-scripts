@@ -1,0 +1,375 @@
+MODULES FOR PART NAMED SSME
+LIST of 8 items:
+[0] = "ModuleEnginesFX"
+[1] = "ModuleAlternator"
+[2] = "ModuleJettison"
+[3] = "ModuleGimbal"
+[4] = "FXModuleAnimateThrottle"
+[5] = "ModuleTestSubject"
+[6] = "ModuleSurfaceFX"
+[7] = "KOSNameTag"
+MODULES FOR PART NAMED Size3MediumTank
+LIST of 1 items:
+[0] = "KOSNameTag"
+MODULES FOR PART NAMED fairingSize3
+LIST of 18 items:
+[0] = "ModuleProceduralFairing"
+[1] = "ModuleCargoBay"
+[2] = "ModuleTestSubject"
+[3] = "ModuleStructuralNode"
+[4] = "ModuleStructuralNode"
+[5] = "ModuleStructuralNode"
+[6] = "ModuleStructuralNode"
+[7] = "ModuleStructuralNode"
+[8] = "ModuleStructuralNode"
+[9] = "ModuleStructuralNode"
+[10] = "ModuleStructuralNode"
+[11] = "ModuleStructuralNode"
+[12] = "ModuleStructuralNode"
+[13] = "ModuleStructuralNode"
+[14] = "ModuleStructuralNode"
+[15] = "ModuleStructuralNodeToggle"
+[16] = "ModulePartVariants"
+[17] = "KOSNameTag"
+MODULES FOR PART NAMED probeCoreOcto2.v2
+LIST of 6 items:
+[0] = "ModuleCommand"
+[1] = "ModuleSAS"
+[2] = "ModuleKerbNetAccess"
+[3] = "ModuleDataTransmitter"
+[4] = "KOSNameTag"
+[5] = "ModuleTripLogger"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 1 items:
+[0] = "KOSNameTag"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 1 items:
+[0] = "KOSNameTag"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 1 items:
+[0] = "KOSNameTag"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 1 items:
+[0] = "KOSNameTag"
+MODULES FOR PART NAMED longAntenna
+LIST of 3 items:
+[0] = "ModuleDeployableAntenna"
+[1] = "ModuleDataTransmitter"
+[2] = "KOSNameTag"
+MODULES FOR PART NAMED longAntenna
+LIST of 3 items:
+[0] = "ModuleDeployableAntenna"
+[1] = "ModuleDataTransmitter"
+[2] = "KOSNameTag"
+MODULES FOR PART NAMED KAL9000
+LIST of 4 items:
+[0] = "kOSProcessor"
+[1] = "ModuleLight"
+[2] = "kOSLightModule"
+[3] = "KOSNameTag"
+MODULES FOR PART NAMED advSasModule
+LIST of 2 items:
+[0] = "ModuleReactionWheel"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED sepMotor1
+LIST of 3 items:
+[0] = "ModuleEngines"
+[1] = "ModuleTestSubject"
+[2] = "KOSNameTag"
+MODULES FOR PART NAMED sepMotor1
+LIST of 3 items:
+[0] = "ModuleEngines"
+[1] = "ModuleTestSubject"
+[2] = "KOSNameTag"
+MODULES FOR PART NAMED sepMotor1
+LIST of 3 items:
+[0] = "ModuleEngines"
+[1] = "ModuleTestSubject"
+[2] = "KOSNameTag"
+MODULES FOR PART NAMED sepMotor1
+LIST of 3 items:
+[0] = "ModuleEngines"
+[1] = "ModuleTestSubject"
+[2] = "KOSNameTag"
+MODULES FOR PART NAMED SSME
+LIST of 8 items:
+[0] = "ModuleEnginesFX"
+[1] = "ModuleAlternator"
+[2] = "ModuleJettison"
+[3] = "ModuleGimbal"
+[4] = "FXModuleAnimateThrottle"
+[5] = "ModuleTestSubject"
+[6] = "ModuleSurfaceFX"
+[7] = "KOSNameTag"
+MODULES FOR PART NAMED Size3MediumTank
+LIST of 1 items:
+[0] = "KOSNameTag"
+MODULES FOR PART NAMED fairingSize3
+LIST of 18 items:
+[0] = "ModuleProceduralFairing"
+[1] = "ModuleCargoBay"
+[2] = "ModuleTestSubject"
+[3] = "ModuleStructuralNode"
+[4] = "ModuleStructuralNode"
+[5] = "ModuleStructuralNode"
+[6] = "ModuleStructuralNode"
+[7] = "ModuleStructuralNode"
+[8] = "ModuleStructuralNode"
+[9] = "ModuleStructuralNode"
+[10] = "ModuleStructuralNode"
+[11] = "ModuleStructuralNode"
+[12] = "ModuleStructuralNode"
+[13] = "ModuleStructuralNode"
+[14] = "ModuleStructuralNode"
+[15] = "ModuleStructuralNodeToggle"
+[16] = "ModulePartVariants"
+[17] = "KOSNameTag"
+MODULES FOR PART NAMED probeCoreOcto2.v2
+LIST of 6 items:
+[0] = "ModuleCommand"
+[1] = "ModuleSAS"
+[2] = "ModuleKerbNetAccess"
+[3] = "ModuleDataTransmitter"
+[4] = "KOSNameTag"
+[5] = "ModuleTripLogger"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 1 items:
+[0] = "KOSNameTag"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 1 items:
+[0] = "KOSNameTag"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 1 items:
+[0] = "KOSNameTag"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 1 items:
+[0] = "KOSNameTag"
+MODULES FOR PART NAMED longAntenna
+LIST of 3 items:
+[0] = "ModuleDeployableAntenna"
+[1] = "ModuleDataTransmitter"
+[2] = "KOSNameTag"
+MODULES FOR PART NAMED longAntenna
+LIST of 3 items:
+[0] = "ModuleDeployableAntenna"
+[1] = "ModuleDataTransmitter"
+[2] = "KOSNameTag"
+MODULES FOR PART NAMED KAL9000
+LIST of 4 items:
+[0] = "kOSProcessor"
+[1] = "ModuleLight"
+[2] = "kOSLightModule"
+[3] = "KOSNameTag"
+MODULES FOR PART NAMED advSasModule
+LIST of 2 items:
+[0] = "ModuleReactionWheel"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED sepMotor1
+LIST of 3 items:
+[0] = "ModuleEngines"
+[1] = "ModuleTestSubject"
+[2] = "KOSNameTag"
+MODULES FOR PART NAMED sepMotor1
+LIST of 3 items:
+[0] = "ModuleEngines"
+[1] = "ModuleTestSubject"
+[2] = "KOSNameTag"
+MODULES FOR PART NAMED sepMotor1
+LIST of 3 items:
+[0] = "ModuleEngines"
+[1] = "ModuleTestSubject"
+[2] = "KOSNameTag"
+MODULES FOR PART NAMED sepMotor1
+LIST of 3 items:
+[0] = "ModuleEngines"
+[1] = "ModuleTestSubject"
+[2] = "KOSNameTag"
+MODULES FOR PART NAMED SSME
+LIST of 8 items:
+[0] = "ModuleEnginesFX"
+[1] = "ModuleAlternator"
+[2] = "ModuleJettison"
+[3] = "ModuleGimbal"
+[4] = "FXModuleAnimateThrottle"
+[5] = "ModuleTestSubject"
+[6] = "ModuleSurfaceFX"
+[7] = "KOSNameTag"
+MODULES FOR PART NAMED Size3MediumTank
+LIST of 1 items:
+[0] = "KOSNameTag"
+MODULES FOR PART NAMED fairingSize3
+LIST of 18 items:
+[0] = "ModuleProceduralFairing"
+[1] = "ModuleCargoBay"
+[2] = "ModuleTestSubject"
+[3] = "ModuleStructuralNode"
+[4] = "ModuleStructuralNode"
+[5] = "ModuleStructuralNode"
+[6] = "ModuleStructuralNode"
+[7] = "ModuleStructuralNode"
+[8] = "ModuleStructuralNode"
+[9] = "ModuleStructuralNode"
+[10] = "ModuleStructuralNode"
+[11] = "ModuleStructuralNode"
+[12] = "ModuleStructuralNode"
+[13] = "ModuleStructuralNode"
+[14] = "ModuleStructuralNode"
+[15] = "ModuleStructuralNodeToggle"
+[16] = "ModulePartVariants"
+[17] = "KOSNameTag"
+MODULES FOR PART NAMED probeCoreOcto2.v2
+LIST of 6 items:
+[0] = "ModuleCommand"
+[1] = "ModuleSAS"
+[2] = "ModuleKerbNetAccess"
+[3] = "ModuleDataTransmitter"
+[4] = "KOSNameTag"
+[5] = "ModuleTripLogger"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 1 items:
+[0] = "KOSNameTag"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 1 items:
+[0] = "KOSNameTag"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 1 items:
+[0] = "KOSNameTag"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 1 items:
+[0] = "KOSNameTag"
+MODULES FOR PART NAMED longAntenna
+LIST of 3 items:
+[0] = "ModuleDeployableAntenna"
+[1] = "ModuleDataTransmitter"
+[2] = "KOSNameTag"
+MODULES FOR PART NAMED longAntenna
+LIST of 3 items:
+[0] = "ModuleDeployableAntenna"
+[1] = "ModuleDataTransmitter"
+[2] = "KOSNameTag"
+MODULES FOR PART NAMED KAL9000
+LIST of 4 items:
+[0] = "kOSProcessor"
+[1] = "ModuleLight"
+[2] = "kOSLightModule"
+[3] = "KOSNameTag"
+MODULES FOR PART NAMED advSasModule
+LIST of 2 items:
+[0] = "ModuleReactionWheel"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED RCSBlock
+LIST of 2 items:
+[0] = "ModuleRCSFX"
+[1] = "KOSNameTag"
+MODULES FOR PART NAMED sepMotor1
+LIST of 3 items:
+[0] = "ModuleEngines"
+[1] = "ModuleTestSubject"
+[2] = "KOSNameTag"
+MODULES FOR PART NAMED sepMotor1
+LIST of 3 items:
+[0] = "ModuleEngines"
+[1] = "ModuleTestSubject"
+[2] = "KOSNameTag"
+MODULES FOR PART NAMED sepMotor1
+LIST of 3 items:
+[0] = "ModuleEngines"
+[1] = "ModuleTestSubject"
+[2] = "KOSNameTag"
+MODULES FOR PART NAMED sepMotor1
+LIST of 3 items:
+[0] = "ModuleEngines"
+[1] = "ModuleTestSubject"
+[2] = "KOSNameTag"
